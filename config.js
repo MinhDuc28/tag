@@ -3,8 +3,8 @@ const CONFIG = {
     introDesc: `Chào mừng em đã
    đến với ngày kỉ niệm siêu khủng này`,
     btnIntro: 'Vào đê',
-    title: 'Nhìn cái này quen không cưng  🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'Nhìn cái này quen hok cưng  🥰',
+    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Quen ạ , anh Đức iu của em 😘',
     btnNo: 'ĐÉO QUEN',
     question:'Gửi ảnh nú dè để tiếp tục',
@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Anh biết mà mnem mnem * ực ực 😘😘',
     messDesc: 'Thế vẫn chỗ cũ nhá',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://youtu.be/pqyBt0PbYJ0' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
